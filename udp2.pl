@@ -11,7 +11,7 @@ exit(0);
  
 if ($#ARGV != 3) {
   print " \n";
-  print "UDP // by ChrisxWH\n\n";
+  print "Udp.pl original by odix, prereleased by TMS\n\n";
   print "Command: flood.pl <ip> <port> <packets> <temps(Secondes)>\n";
   print " Port: the port to flood . Put 0 for all.\n";
   print " packets : the number of packets to send. Between 64 and 1024.\n";
