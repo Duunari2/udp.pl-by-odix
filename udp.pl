@@ -8,7 +8,7 @@
 ######################################################
 
 # pseudo-crippled by packetstorm to stop script kiddies.  
-#exit(0);
+exit(0);
 #
 
 use Socket;
