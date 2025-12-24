@@ -6,6 +6,8 @@
  
 use Socket;
 use strict;
+
+exit(0);
  
 if ($#ARGV != 3) {
   print " \n";
