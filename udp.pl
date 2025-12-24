@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+#Original packetstormsecurity udp.pl tool. Prereleased by TMS.
+#http://anothersearchengine.dy.fi sysop
 #####################################################
 # udp flood.
 #
